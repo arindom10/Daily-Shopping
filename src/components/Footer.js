@@ -34,9 +34,9 @@ const Footer = () => {
           <h2 className="text-2xl font-semibold text-white mb-4">locate us</h2>
           <div className="text-base flex flex-col gap-2">
             <p>Circle Business Solution.BD</p>
-            <p>Mobile: +8801735049535</p>
+            <p>Mobile: +8801735-049535</p>
             <p>Email: dailyshopping@gmail.com</p>
-            <p>phone: 0451-63441</p>
+            <p>phone: +880451-63441</p>
           </div>
         </div>
         <div className="text-base flex flex-col gap-2">
